@@ -1,0 +1,15 @@
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\bin\Debug\net8.0\EstructuraDoWhile.exe
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\bin\Debug\net8.0\EstructuraDoWhile.deps.json
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\bin\Debug\net8.0\EstructuraDoWhile.runtimeconfig.json
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\bin\Debug\net8.0\EstructuraDoWhile.dll
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\bin\Debug\net8.0\EstructuraDoWhile.pdb
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\EstructuraDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\EstructuraDoWhile.AssemblyInfoInputs.cache
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\EstructuraDoWhile.AssemblyInfo.cs
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\EstructuraDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\EstructuraDoWhile.sourcelink.json
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\EstructuraDoWhile.dll
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\refint\EstructuraDoWhile.dll
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\EstructuraDoWhile.pdb
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\EstructuraDoWhile.genruntimeconfig.cache
+C:\Users\OGTI_03\prueba\mi-primer-repo\EstructuraDoWhile\obj\Debug\net8.0\ref\EstructuraDoWhile.dll

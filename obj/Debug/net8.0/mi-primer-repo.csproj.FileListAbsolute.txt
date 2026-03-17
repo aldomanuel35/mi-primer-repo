@@ -1,0 +1,15 @@
+C:\Users\OGTI_03\prueba\mi-primer-repo\bin\Debug\net8.0\mi-primer-repo.exe
+C:\Users\OGTI_03\prueba\mi-primer-repo\bin\Debug\net8.0\mi-primer-repo.deps.json
+C:\Users\OGTI_03\prueba\mi-primer-repo\bin\Debug\net8.0\mi-primer-repo.runtimeconfig.json
+C:\Users\OGTI_03\prueba\mi-primer-repo\bin\Debug\net8.0\mi-primer-repo.dll
+C:\Users\OGTI_03\prueba\mi-primer-repo\bin\Debug\net8.0\mi-primer-repo.pdb
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\mi-primer-repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\mi-primer-repo.AssemblyInfoInputs.cache
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\mi-primer-repo.AssemblyInfo.cs
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\mi-primer-repo.csproj.CoreCompileInputs.cache
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\mi-primer-repo.sourcelink.json
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\mi-primer-repo.dll
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\refint\mi-primer-repo.dll
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\mi-primer-repo.pdb
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\mi-primer-repo.genruntimeconfig.cache
+C:\Users\OGTI_03\prueba\mi-primer-repo\obj\Debug\net8.0\ref\mi-primer-repo.dll
