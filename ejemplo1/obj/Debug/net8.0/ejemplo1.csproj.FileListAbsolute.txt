@@ -1,0 +1,14 @@
+E:\C Sharp\ejemplo1\obj\Debug\net8.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfoInputs.cache
+E:\C Sharp\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfo.cs
+E:\C Sharp\ejemplo1\obj\Debug\net8.0\ejemplo1.csproj.CoreCompileInputs.cache
+E:\C Sharp\ejemplo1\bin\Debug\net8.0\ejemplo1.exe
+E:\C Sharp\ejemplo1\bin\Debug\net8.0\ejemplo1.deps.json
+E:\C Sharp\ejemplo1\bin\Debug\net8.0\ejemplo1.runtimeconfig.json
+E:\C Sharp\ejemplo1\bin\Debug\net8.0\ejemplo1.dll
+E:\C Sharp\ejemplo1\bin\Debug\net8.0\ejemplo1.pdb
+E:\C Sharp\ejemplo1\obj\Debug\net8.0\ejemplo1.dll
+E:\C Sharp\ejemplo1\obj\Debug\net8.0\refint\ejemplo1.dll
+E:\C Sharp\ejemplo1\obj\Debug\net8.0\ejemplo1.pdb
+E:\C Sharp\ejemplo1\obj\Debug\net8.0\ejemplo1.genruntimeconfig.cache
+E:\C Sharp\ejemplo1\obj\Debug\net8.0\ref\ejemplo1.dll
