@@ -1,0 +1,15 @@
+E:\C Sharp\SUMA\bin\Debug\net10.0\SUMA.exe
+E:\C Sharp\SUMA\bin\Debug\net10.0\SUMA.deps.json
+E:\C Sharp\SUMA\bin\Debug\net10.0\SUMA.runtimeconfig.json
+E:\C Sharp\SUMA\bin\Debug\net10.0\SUMA.dll
+E:\C Sharp\SUMA\bin\Debug\net10.0\SUMA.pdb
+E:\C Sharp\SUMA\obj\Debug\net10.0\SUMA.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\SUMA\obj\Debug\net10.0\SUMA.AssemblyInfoInputs.cache
+E:\C Sharp\SUMA\obj\Debug\net10.0\SUMA.AssemblyInfo.cs
+E:\C Sharp\SUMA\obj\Debug\net10.0\SUMA.csproj.CoreCompileInputs.cache
+E:\C Sharp\SUMA\obj\Debug\net10.0\SUMA.sourcelink.json
+E:\C Sharp\SUMA\obj\Debug\net10.0\SUMA.dll
+E:\C Sharp\SUMA\obj\Debug\net10.0\refint\SUMA.dll
+E:\C Sharp\SUMA\obj\Debug\net10.0\SUMA.pdb
+E:\C Sharp\SUMA\obj\Debug\net10.0\SUMA.genruntimeconfig.cache
+E:\C Sharp\SUMA\obj\Debug\net10.0\ref\SUMA.dll
