@@ -1,0 +1,15 @@
+E:\C Sharp\resta\bin\Debug\net10.0\resta.exe
+E:\C Sharp\resta\bin\Debug\net10.0\resta.deps.json
+E:\C Sharp\resta\bin\Debug\net10.0\resta.runtimeconfig.json
+E:\C Sharp\resta\bin\Debug\net10.0\resta.dll
+E:\C Sharp\resta\bin\Debug\net10.0\resta.pdb
+E:\C Sharp\resta\obj\Debug\net10.0\resta.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\resta\obj\Debug\net10.0\resta.AssemblyInfoInputs.cache
+E:\C Sharp\resta\obj\Debug\net10.0\resta.AssemblyInfo.cs
+E:\C Sharp\resta\obj\Debug\net10.0\resta.csproj.CoreCompileInputs.cache
+E:\C Sharp\resta\obj\Debug\net10.0\resta.sourcelink.json
+E:\C Sharp\resta\obj\Debug\net10.0\resta.dll
+E:\C Sharp\resta\obj\Debug\net10.0\refint\resta.dll
+E:\C Sharp\resta\obj\Debug\net10.0\resta.pdb
+E:\C Sharp\resta\obj\Debug\net10.0\resta.genruntimeconfig.cache
+E:\C Sharp\resta\obj\Debug\net10.0\ref\resta.dll
